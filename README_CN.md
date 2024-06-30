@@ -7,9 +7,10 @@
     <img src="https://img.shields.io/github/stars/TryBin03/vite-plugin-qiniu-kodo?sanitize=true" alt="Stars">
   </a>
 </p>
+
 在打包过程中自动上传静态资源到 Qiniu Kodo（七牛云的对象存储）
 
-[英文文档](https://github.com/TryBin03/vite-plugin-qiniu-kodo/blob/main/README.md)
+[英文文档](https://github.com/TryBin03/vite-plugin-qiniu-kodo/blob/master/README.md)
 
 # 🎉 特性
 - 已经上传的文件不会继续上传
