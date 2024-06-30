@@ -10,7 +10,7 @@
 
 Upload static resources to qiniu kodo during packaging
 
-[中文文档](https://github.com/TryBin03/vite-plugin-qiniu-kodo/blob/main/README_CN.md)
+[中文文档](https://github.com/TryBin03/vite-plugin-qiniu-kodo/blob/master/README_CN.md)
 
 # Feature
 
