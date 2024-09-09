@@ -1,6 +1,6 @@
 {
 	"name": "vite-plugin-qiniu-kodo",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Upload static resources to qiniu kodo during packaging",
 	"main": "index.js",
 	"scripts": {
